@@ -4,3 +4,13 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;    
 }
 
+h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
